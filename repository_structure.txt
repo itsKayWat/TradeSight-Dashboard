@@ -1,0 +1,16 @@
+tradesight-dashboard/
+├── stock-dashboard.html      # Main dashboard interface
+├── assets/
+│   ├── css/                 # Stylesheets
+│   ├── js/                  # JavaScript modules
+│   └── img/                 # Images and icons
+├── docs/                    # Documentation
+│   ├── API.md
+│   └── SETUP.md
+├── config/
+│   └── default.json         # Default configuration
+├── tests/                   # Test files
+├── .env.example            # Environment variables example
+├── requirements.py         # Installation script
+├── README.md              # Project documentation
+└── LICENSE               # MIT license
